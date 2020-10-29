@@ -1,0 +1,28 @@
+2020-10-29 21:55:26 DEBUG AnnotationConfigApplicationContext:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@73a8dfcc
+2020-10-29 21:55:26 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-29 21:55:26 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-29 21:55:26 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-29 21:55:26 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-29 21:55:26 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-29 21:55:26 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
+2020-10-29 22:35:42 DEBUG AnnotationConfigApplicationContext:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@73a8dfcc
+2020-10-29 22:35:42 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-29 22:35:42 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-29 22:35:42 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-29 22:35:42 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-29 22:35:42 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-29 22:35:42 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
+2020-10-29 22:48:40 DEBUG AnnotationConfigApplicationContext:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@73a8dfcc
+2020-10-29 22:48:40 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-29 22:48:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-29 22:48:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-29 22:48:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-29 22:48:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-29 22:48:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
+2020-10-29 23:14:21 DEBUG AnnotationConfigApplicationContext:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@73a8dfcc
+2020-10-29 23:14:21 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-29 23:14:21 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-29 23:14:21 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-29 23:14:21 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-29 23:14:21 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-29 23:14:21 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
